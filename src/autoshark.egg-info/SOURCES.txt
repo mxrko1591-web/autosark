@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/file.py
+src/autoshark.egg-info/PKG-INFO
+src/autoshark.egg-info/SOURCES.txt
+src/autoshark.egg-info/dependency_links.txt
+src/autoshark.egg-info/entry_points.txt
+src/autoshark.egg-info/top_level.txt

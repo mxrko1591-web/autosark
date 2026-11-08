@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autoshark"
+version = "0.1.0"
+description = "Automates networking with Tshark."
+requires-python = ">=3.9"
+dependencies = []
+license = "MIT"
+
+[project.scripts]
+autoshark = "file:main"
+
